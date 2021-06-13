@@ -1,6 +1,6 @@
 # Numerical-methods
 
-  The scripts written in the Numerical methods class are transformed into Object-oriented scripts in this repository
+  The codes written in the past are transformed into Object-oriented scripts in this repository
   
 Object Classes
 - **ODE** : approximation methods for Ordinary Differential Equations
